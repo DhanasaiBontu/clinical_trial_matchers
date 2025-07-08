@@ -1,0 +1,475 @@
+[
+  {
+    "patient_id": "dbd59bda-8f90-4c5c-a67b-e10f9e34165a",
+    "age": 55,
+    "gender": "Other",
+    "location": "Bangalore",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "538b78dc-af25-4ae2-8da7-2474bbf33966",
+    "age": 70,
+    "gender": "Female",
+    "location": "Hyderabad",
+    "conditions": [
+      "Asthma",
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "ea47105d-79c6-46aa-9282-c7f278caf25f",
+    "age": 30,
+    "gender": "Other",
+    "location": "Mumbai",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "5803741f-6f21-46c8-9635-11b8c8323b0a",
+    "age": 28,
+    "gender": "Female",
+    "location": "Chennai",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "8a1497a6-bab6-46b0-ade6-f8336e86ed28",
+    "age": 59,
+    "gender": "Female",
+    "location": "Bangalore",
+    "conditions": [
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "d456fafc-6f62-42ee-bf23-5be1b170a48b",
+    "age": 21,
+    "gender": "Male",
+    "location": "Hyderabad",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "33b43b86-508e-4d78-925f-b6269def02bb",
+    "age": 39,
+    "gender": "Other",
+    "location": "Mumbai",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "6fe47f16-66dc-4f69-bacd-2e23d229c8a6",
+    "age": 37,
+    "gender": "Male",
+    "location": "India",
+    "conditions": [
+      "Asthma",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "110a5fdb-effc-44f2-bd4e-3ee1eefad568",
+    "age": 58,
+    "gender": "Female",
+    "location": "India",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "26f4904e-5e91-4c55-96a5-49e50b633756",
+    "age": 65,
+    "gender": "Female",
+    "location": "Chennai",
+    "conditions": [
+      "Asthma",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "5eb0fc26-b52d-4cc8-a22a-0b238eedbab2",
+    "age": 48,
+    "gender": "Female",
+    "location": "Mumbai",
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "a4555b85-12c4-448c-9574-60c975423bfa",
+    "age": 75,
+    "gender": "Other",
+    "location": "Pune",
+    "conditions": [
+      "Diabetes",
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "eade136a-a6c1-40af-a2e7-11c99607a9b8",
+    "age": 33,
+    "gender": "Male",
+    "location": "Hyderabad",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "d17b20dd-d8f8-4b13-b5f0-e2bb6e2c21b7",
+    "age": 67,
+    "gender": "Other",
+    "location": "Pune",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "b7bc444c-c55e-4e73-b2bb-0731610a8ad5",
+    "age": 67,
+    "gender": "Female",
+    "location": "Mumbai",
+    "conditions": [
+      "Cancer",
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "34f8cd89-746a-4e3e-9015-e13f034e629f",
+    "age": 62,
+    "gender": "Female",
+    "location": "Bangalore",
+    "conditions": [
+      "Hypertension",
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "63502159-3c8c-4368-a082-32381454e806",
+    "age": 28,
+    "gender": "Male",
+    "location": "India",
+    "conditions": [
+      "Cancer",
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "b04bd861-0962-4c08-9c36-048f87a41c92",
+    "age": 72,
+    "gender": "Female",
+    "location": "Pune",
+    "conditions": [
+      "Diabetes",
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "fe2c4e5b-58f3-4db4-9d77-13841dd4040b",
+    "age": 33,
+    "gender": "Other",
+    "location": "India",
+    "conditions": [
+      "Cancer",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "7c734088-1b20-41f2-a823-6bbf0e5e4428",
+    "age": 72,
+    "gender": "Other",
+    "location": "Bangalore",
+    "conditions": [
+      "Diabetes",
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "f7dacb6f-3b4a-4eb2-a47d-18ab853f1250",
+    "age": 24,
+    "gender": "Female",
+    "location": "Delhi",
+    "conditions": [
+      "Hypertension",
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "ef753bfe-7be7-4349-8b46-0005b9da8085",
+    "age": 21,
+    "gender": "Female",
+    "location": "India",
+    "conditions": [
+      "Asthma",
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "f4d03b45-0037-4778-80ca-8f669b929da5",
+    "age": 46,
+    "gender": "Male",
+    "location": "Bangalore",
+    "conditions": [
+      "Hypertension",
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "62b16b77-5096-4818-af89-78fe9ec85244",
+    "age": 50,
+    "gender": "Female",
+    "location": "Pune",
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "f076eb80-e03e-41cf-bfe1-9f91879cee7a",
+    "age": 62,
+    "gender": "Other",
+    "location": "Hyderabad",
+    "conditions": [
+      "Cancer",
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "defd42bb-b882-470e-9fc0-2b4a5cf48389",
+    "age": 49,
+    "gender": "Male",
+    "location": "India",
+    "conditions": [
+      "Diabetes",
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "c6908116-79b6-4639-9167-aa96d25a003d",
+    "age": 78,
+    "gender": "Female",
+    "location": "India",
+    "conditions": [
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "a6cb8ec2-bcb0-4989-bcb3-33d8e3f22a56",
+    "age": 21,
+    "gender": "Male",
+    "location": "Bangalore",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "cccd82b8-def5-4b88-bfb5-c28b1c18ddca",
+    "age": 38,
+    "gender": "Female",
+    "location": "Pune",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "fbda85cd-3d68-40fc-9d27-f62c9587d4f9",
+    "age": 41,
+    "gender": "Female",
+    "location": "Chennai",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "d9d1580b-f425-4fd8-86ed-0518acf35e56",
+    "age": 64,
+    "gender": "Female",
+    "location": "India",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "335e2d71-2913-42ef-8631-703c5c4192ea",
+    "age": 52,
+    "gender": "Other",
+    "location": "Chennai",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "15d69600-8fda-4a16-964f-a70545d99140",
+    "age": 40,
+    "gender": "Male",
+    "location": "Delhi",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "00695ae0-099b-4687-a8cc-417bf67cfa6c",
+    "age": 79,
+    "gender": "Male",
+    "location": "Chennai",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "b07b3329-316a-4bf0-bafe-46bad690f571",
+    "age": 23,
+    "gender": "Male",
+    "location": "Mumbai",
+    "conditions": [
+      "Cancer",
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "c664bf29-d8f4-4e06-afc7-45a99975e709",
+    "age": 42,
+    "gender": "Male",
+    "location": "Pune",
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "3c348ccd-014e-4bdc-b057-47e47cfe8224",
+    "age": 60,
+    "gender": "Male",
+    "location": "Chennai",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "99bfa30f-6f79-49d1-9b8c-33f5fe89352f",
+    "age": 43,
+    "gender": "Female",
+    "location": "Hyderabad",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "b495703e-8614-447f-911b-a4d8db108886",
+    "age": 56,
+    "gender": "Other",
+    "location": "Bangalore",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "e19ff5b9-93f4-4b4a-bf8e-c1a9c81e6a44",
+    "age": 30,
+    "gender": "Male",
+    "location": "Mumbai",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "11537ad8-dccf-4879-89a5-4a4853a3583b",
+    "age": 27,
+    "gender": "Other",
+    "location": "Bangalore",
+    "conditions": [
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "2010ea60-b025-43dd-b14d-c70dc1bfe0fb",
+    "age": 51,
+    "gender": "Other",
+    "location": "India",
+    "conditions": [
+      "Hypertension",
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "8463e338-41d9-4db3-b896-2c23115c35d7",
+    "age": 61,
+    "gender": "Other",
+    "location": "Bangalore",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "110aac03-f5f5-4ffb-b1d3-c9156e4f6c35",
+    "age": 49,
+    "gender": "Other",
+    "location": "Delhi",
+    "conditions": [
+      "Cancer",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "2d7dd313-99d9-48b2-a99a-f8eba3a3bc80",
+    "age": 27,
+    "gender": "Male",
+    "location": "Pune",
+    "conditions": [
+      "Cancer"
+    ]
+  },
+  {
+    "patient_id": "84fa5dd4-e80b-433a-9f77-b296f6b339fc",
+    "age": 48,
+    "gender": "Other",
+    "location": "Hyderabad",
+    "conditions": [
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "a6f4f8fc-ffb9-412b-a1ac-ae4e740f3225",
+    "age": 67,
+    "gender": "Male",
+    "location": "Mumbai",
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "8936a5e6-fc6a-4e5f-a6ae-9e418f094fa7",
+    "age": 50,
+    "gender": "Male",
+    "location": "Bangalore",
+    "conditions": [
+      "Diabetes",
+      "Asthma"
+    ]
+  },
+  {
+    "patient_id": "88694ecf-11fc-4b10-b704-9c16658b2daf",
+    "age": 54,
+    "gender": "Other",
+    "location": "Bangalore",
+    "conditions": [
+      "Diabetes"
+    ]
+  },
+  {
+    "patient_id": "919819de-55e7-47f3-93c9-4622d8773427",
+    "age": 58,
+    "gender": "Male",
+    "location": "India",
+    "conditions": [
+      "Cancer",
+      "Hypertension"
+    ]
+  }
+]

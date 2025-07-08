@@ -1,0 +1,45 @@
+Patient ID: b7bc444c-c55e-4e73-b2bb-0731610a8ad5
+Age: 67
+Gender: Female
+Conditions: Cancer, Asthma
+----------------------------------------
+Top Matched Trials:
+
+1. Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma
+   Location: United States
+   Score: 60.00
+   Inclusion Snippet: Inclusion Criteria:
+
+* Participant must be at least 18 (or the legal age of consent in the jurisdiction in which the study is taking place) years of age inclusive, at the time of signing the informed ...
+
+2. Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids
+   Location: United States
+   Score: 55.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. Provision of signed and dated written informed consent prior to any study-specific procedures.
+2. Adults aged 18-75, inclusive when signing the informed consent.
+3. Documented ...
+
+3. Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA
+   Location: United States
+   Score: 35.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. 18 to 80 years of age inclusive, at the time of signing the informed consent.
+2. Treated with medium-high dose ICS in combination with LABA at a stable dose for at least 28 day...
+
+4. Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)
+   Location: United States
+   Score: 35.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. Histologically or cytologically confirmed diagnosis of metastatic or locally advanced breast cancer Adult females, pre- and/or post-menopausal, and adult males. Pre-menopausal ...
+
+5. A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus
+   Location: India
+   Score: 35.00
+   Inclusion Snippet: Inclusion Criteria:
+
+* Participants must be ≥18 years of age, at the time of signing the informed consent
+* Participants with Type 2 Diabetes diagnosed for at least 1 year at the time of screening on ...

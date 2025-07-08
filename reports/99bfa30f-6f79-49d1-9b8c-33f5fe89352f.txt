@@ -1,0 +1,47 @@
+Patient ID: 99bfa30f-6f79-49d1-9b8c-33f5fe89352f
+Age: 43
+Gender: Female
+Conditions: Cancer
+----------------------------------------
+Top Matched Trials:
+
+1. Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)
+   Location: United States
+   Score: 35.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. Histologically or cytologically confirmed diagnosis of metastatic or locally advanced breast cancer Adult females, pre- and/or post-menopausal, and adult males. Pre-menopausal ...
+
+2. A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus
+   Location: India
+   Score: 35.00
+   Inclusion Snippet: Inclusion Criteria:
+
+* Participants must be ≥18 years of age, at the time of signing the informed consent
+* Participants with Type 2 Diabetes diagnosed for at least 1 year at the time of screening on ...
+
+3. Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma
+   Location: United States
+   Score: 30.00
+   Inclusion Snippet: Inclusion Criteria:
+
+* Participant must be at least 18 (or the legal age of consent in the jurisdiction in which the study is taking place) years of age inclusive, at the time of signing the informed ...
+
+4. A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)
+   Location: United States
+   Score: 30.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. Signed informed consent form and assent form, as appropriate.
+2. Male or female ≥12 years of age at Screening Visit 1.
+
+   Asthma-related criteria
+3. Documented physician diagn...
+
+5. Pre Operative Trastuzumab in Operable Breast Cancer
+   Location: India
+   Score: 30.00
+   Inclusion Snippet: Inclusion Criteria:a.
+
+1. Female subjects aged 18 years or older.
+2. Histologically and/or cytologically confirmed diagnosis of breast cancer. Clinical stages breast cancer: HER2 positive, T1 or T2 or...

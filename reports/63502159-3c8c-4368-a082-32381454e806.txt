@@ -1,0 +1,48 @@
+Patient ID: 63502159-3c8c-4368-a082-32381454e806
+Age: 28
+Gender: Male
+Conditions: Cancer, Diabetes
+----------------------------------------
+Top Matched Trials:
+
+1. A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus
+   Location: India
+   Score: 55.00
+   Inclusion Snippet: Inclusion Criteria:
+
+* Participants must be ≥18 years of age, at the time of signing the informed consent
+* Participants with Type 2 Diabetes diagnosed for at least 1 year at the time of screening on ...
+
+2. Pre Operative Trastuzumab in Operable Breast Cancer
+   Location: India
+   Score: 50.00
+   Inclusion Snippet: Inclusion Criteria:a.
+
+1. Female subjects aged 18 years or older.
+2. Histologically and/or cytologically confirmed diagnosis of breast cancer. Clinical stages breast cancer: HER2 positive, T1 or T2 or...
+
+3. Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.
+   Location: India
+   Score: 50.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. Signed informed consent form (ICF) must be obtained prior to participation in the study.
+2. Adult ≥18 years old at the time of informed consent.
+3. Stage IIIB/IIIC (not amenabl...
+
+4. Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta® Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy naïve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer
+   Location: India
+   Score: 50.00
+   Inclusion Snippet: Inclusion Criteria:
+
+1. Patient willing and able to sign informed consent and to follow the protocol requirements
+2. Female patients aged ≥ 18 years at the time of Screening
+3. Patient with Eastern Co...
+
+5. Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation
+   Location: India
+   Score: 50.00
+   Inclusion Snippet: Inclusion Criteria:
+
+* Signed informed consent must be obtained prior to participation in the study.
+* Male or female participants ≥18 years of age at the screening visit with a confirmed diagnosis of...

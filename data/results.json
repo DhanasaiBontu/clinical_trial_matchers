@@ -1,0 +1,2580 @@
+[
+  {
+    "patient_id": "dbd59bda-8f90-4c5c-a67b-e10f9e34165a",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "538b78dc-af25-4ae2-8da7-2474bbf33966",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "ea47105d-79c6-46aa-9282-c7f278caf25f",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "5803741f-6f21-46c8-9635-11b8c8323b0a",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "8a1497a6-bab6-46b0-ade6-f8336e86ed28",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "d456fafc-6f62-42ee-bf23-5be1b170a48b",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "33b43b86-508e-4d78-925f-b6269def02bb",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "6fe47f16-66dc-4f69-bacd-2e23d229c8a6",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "110a5fdb-effc-44f2-bd4e-3ee1eefad568",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "26f4904e-5e91-4c55-96a5-49e50b633756",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "5eb0fc26-b52d-4cc8-a22a-0b238eedbab2",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "a4555b85-12c4-448c-9574-60c975423bfa",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "eade136a-a6c1-40af-a2e7-11c99607a9b8",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "d17b20dd-d8f8-4b13-b5f0-e2bb6e2c21b7",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "b7bc444c-c55e-4e73-b2bb-0731610a8ad5",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "34f8cd89-746a-4e3e-9015-e13f034e629f",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "63502159-3c8c-4368-a082-32381454e806",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "b04bd861-0962-4c08-9c36-048f87a41c92",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "fe2c4e5b-58f3-4db4-9d77-13841dd4040b",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "7c734088-1b20-41f2-a823-6bbf0e5e4428",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "f7dacb6f-3b4a-4eb2-a47d-18ab853f1250",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "ef753bfe-7be7-4349-8b46-0005b9da8085",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "f4d03b45-0037-4778-80ca-8f669b929da5",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "62b16b77-5096-4818-af89-78fe9ec85244",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "f076eb80-e03e-41cf-bfe1-9f91879cee7a",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "defd42bb-b882-470e-9fc0-2b4a5cf48389",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "c6908116-79b6-4639-9167-aa96d25a003d",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "a6cb8ec2-bcb0-4989-bcb3-33d8e3f22a56",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "cccd82b8-def5-4b88-bfb5-c28b1c18ddca",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "fbda85cd-3d68-40fc-9d27-f62c9587d4f9",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "d9d1580b-f425-4fd8-86ed-0518acf35e56",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "335e2d71-2913-42ef-8631-703c5c4192ea",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "15d69600-8fda-4a16-964f-a70545d99140",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "00695ae0-099b-4687-a8cc-417bf67cfa6c",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "b07b3329-316a-4bf0-bafe-46bad690f571",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "c664bf29-d8f4-4e06-afc7-45a99975e709",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "3c348ccd-014e-4bdc-b057-47e47cfe8224",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "99bfa30f-6f79-49d1-9b8c-33f5fe89352f",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "b495703e-8614-447f-911b-a4d8db108886",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "e19ff5b9-93f4-4b4a-bf8e-c1a9c81e6a44",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "11537ad8-dccf-4879-89a5-4a4853a3583b",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "2010ea60-b025-43dd-b14d-c70dc1bfe0fb",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "8463e338-41d9-4db3-b896-2c23115c35d7",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "110aac03-f5f5-4ffb-b1d3-c9156e4f6c35",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "2d7dd313-99d9-48b2-a99a-f8eba3a3bc80",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "84fa5dd4-e80b-433a-9f77-b296f6b339fc",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "a6f4f8fc-ffb9-412b-a1ac-ae4e740f3225",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT06948422",
+        "trial_title": "A Master Protocol for Orforglipron (LY3502970) in Participants With Hypertension and Obesity or Overweight: (ATTAIN-Hypertension Screening)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "8936a5e6-fc6a-4e5f-a6ae-9e418f094fa7",
+    "matches": [
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 60,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06932263",
+        "trial_title": "Dose Range Finding Study to Assess Efficacy and Safety of Tozorakimab in Adults With Uncontrolled Asthma on Medium-to-High Dose Inhaled Corticosteroids",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06020014",
+        "trial_title": "Phase 2a Study to Assess the Efficacy and Safety of AZD4604 in Adult Patients With Moderate-to-Severe Asthma Uncontrolled on Medium-High Dose ICS-LABA",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Condition matched",
+          "\u2705 Keyword match: pregnant"
+        ]
+      },
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "88694ecf-11fc-4b10-b704-9c16658b2daf",
+    "matches": [
+      {
+        "trial_id": "NCT05501886",
+        "trial_title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 35,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT05097287",
+        "trial_title": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05813288",
+        "trial_title": "A Study to Assess the Effect of Dexpramipexole in Adolescents and Adults With Severe Eosinophilic Asthma (EXHALE-3)",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 30,
+        "match_reasons": [
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "919819de-55e7-47f3-93c9-4622d8773427",
+    "matches": [
+      {
+        "trial_id": "NCT06716424",
+        "trial_title": "A Study to Investigate Safety and Efficacy of iGlarLixi in Adult Patients With Type 2 Diabetes Mellitus",
+        "score": 55,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: type 2, pregnant, metformin"
+        ]
+      },
+      {
+        "trial_id": "NCT01785420",
+        "trial_title": "Pre Operative Trastuzumab in Operable Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT05110196",
+        "trial_title": "Study of Capmatinib in Indian Patients With MET Exon 14 Skipping Mutation Positive Advanced NSCLC.",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06038539",
+        "trial_title": "Efficacy and Safety of the Proposed Biosimilar Pertuzumab (PERT-IJS) Versus EU-Perjeta\u00ae Along With Trastuzumab and Chemotherapy (Carboplatin and Docetaxel) as Neoadjuvant Treatment in Chemotherapy na\u00efve Patients With Early Stage or Locally Advanced HR Negative and HER2 Positive Breast Cancer",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      },
+      {
+        "trial_id": "NCT06427811",
+        "trial_title": "Clinical Study of Asciminib in Previously Treated Indian Patients With Ph+ CML-CP Without T315I Mutation and in Patients With Ph+ CML-CP With T315I Mutation",
+        "score": 50,
+        "match_reasons": [
+          "\u2705 Location matched",
+          "\u2705 Age eligible",
+          "\u2705 Keyword match: pregnant, hypertension"
+        ]
+      }
+    ]
+  }
+]
