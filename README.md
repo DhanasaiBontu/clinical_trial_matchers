@@ -65,27 +65,28 @@ Run the evaluation script to view metrics
 
 1. **Clone the repository**
    git clone https://github.com/DhanasaiBontu/clinical_trial_matchers.git
+
    cd clinical_trial_matchers
 
-2. **Set Up a Virtual Environment (Windows)**
+3. **Set Up a Virtual Environment (Windows)**
     python -m venv venv
     venv\Scripts\activate
 
-3. **Install Dependencies**
+4. **Install Dependencies**
     pip install -r requirements.txt
 
-4. **Extract Trial Data**
+5. **Extract Trial Data**
     Make sure folders like Asthama_India/, Cancer_India/, etc. are inside data/raw_trails/.
     python extract_trials.py
 
-5. **Generate Synthetic Patients**
+6. **Generate Synthetic Patients**
     python generate_patients.py
 
-6. **Run the Matching Pipeline**
+7. **Run the Matching Pipeline**
     python main.py
 
-7. **Visualize Results**
+8. **Visualize Results**
     python visualize.py
 
-8. **Evaluate Matching Performance**
+9. **Evaluate Matching Performance**
     python evaluation.py
