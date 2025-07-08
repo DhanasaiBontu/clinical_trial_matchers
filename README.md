@@ -16,30 +16,29 @@ Develop a system that:
 
 clinical_trial_matchers/
 ├── data/
-│   ├── raw_trails/
-│   │   ├── Asthama_India/
-│   │   ├── Cancer_India/
-│   │   ├── Diabetes_India/
-│   │   └── Hypertension_India/
-│   ├── patients.json           # Synthetic patient profiles
-│   ├── trials.json             # Extracted trial data from raw_trails
-│   └── results.json            # Matching results (patient ↔ trials)
+│ ├── raw_trails/
+│ │ ├── Asthama_India/
+│ │ ├── Cancer_India/
+│ │ ├── Diabetes_India/
+│ │ └── Hypertension_India/
+│ ├── patients.json # Synthetic patient profiles
+│ ├── trials.json # Extracted trial data from raw_trails
+│ └── results.json # Matching results (patient ↔ trials)
 │
 ├── matcher/
-│   └── matcher.py              # Trial-patient matching logic
+│ └── matcher.py # Trial-patient matching logic
 │
-├── plots/                      # Output folder for visual graphs (created by visualize.py)
+├── plots/ # Output folder for visual graphs (created by visualize.py)
+├── reports/ # Summary reports and evaluation metrics output
 │
-├── reports/                    # Summary reports and evaluation metrics output
-│
-├── extract_trials.py          # Parses raw JSON from raw_trails into trials.json
-├── generate_patients.py       # Creates synthetic patient data into patients.json
-├── generate_reports.py        # Creates reports from results.json (optional/extendable)
-├── main.py                    # Main execution script that performs trial matching
-├── visualize.py               # Visualization of match statistics
-├── evaluation.py              # Match performance metrics (e.g., coverage, scores)
-├── requirements.txt           # Required Python packages
-└── README.md                  # Project overview, instructions, and documentation
+├── extract_trials.py # Parses raw JSON from raw_trails into trials.json
+├── generate_patients.py # Creates synthetic patient data into patients.json
+├── generate_reports.py # Creates reports from results.json (optional/extendable)
+├── main.py # Main execution script that performs trial matching
+├── visualize.py # Visualization of match statistics
+├── evaluation.py # Match performance metrics (e.g., coverage, scores)
+├── requirements.txt # Required Python packages
+└── README.md # Project overview, instructions, and documentation
 
 ## Features
 
@@ -65,7 +64,7 @@ Run the evaluation script to view metrics
 ## Setup Instructions
 
 1. **Clone the repository**
-   git clone <your-repo-url>
+   git clone https://github.com/DhanasaiBontu/clinical_trial_matchers.git
    cd clinical_trial_matchers
 
 2. **Set Up a Virtual Environment (Windows)**
