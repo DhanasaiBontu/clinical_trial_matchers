@@ -70,23 +70,24 @@ Run the evaluation script to view metrics
 
 3. **Set Up a Virtual Environment (Windows)**
     python -m venv venv
-    venv\Scripts\activate
 
-4. **Install Dependencies**
+   venv\Scripts\activate
+
+5. **Install Dependencies**
     pip install -r requirements.txt
 
-5. **Extract Trial Data**
+6. **Extract Trial Data**
     Make sure folders like Asthama_India/, Cancer_India/, etc. are inside data/raw_trails/.
     python extract_trials.py
 
-6. **Generate Synthetic Patients**
+7. **Generate Synthetic Patients**
     python generate_patients.py
 
-7. **Run the Matching Pipeline**
+8. **Run the Matching Pipeline**
     python main.py
 
-8. **Visualize Results**
+9. **Visualize Results**
     python visualize.py
 
-9. **Evaluate Matching Performance**
+10. **Evaluate Matching Performance**
     python evaluation.py
